@@ -1,2 +1,2 @@
 Welcome to my profile!
-I am next C++/JS/PHP developer
+I am another C/C++/JS developer
